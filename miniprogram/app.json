@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/userConsole/userConsole",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib",
+    "pages/page1/page1",
+    "pages/page2/page2",
+    "pages/page1/pages/english/years/years",
+    "pages/page1/pages/chinese/years/years",
+    "pages/page1/pages/math/years/years",
+    "pages/page1/pages/biology/years/years",
+    "pages/page1/pages/chemistry/years/years",
+    "pages/page1/pages/physical/years/years",
+    "pages/page1/pages/history/years/years",
+    "pages/page1/pages/geography/years/years",
+    "pages/page1/pages/political/years/years",
+    "pages/page1/pages/politicalAnswer/years/years",
+    "pages/page1/pages/physicalAnswer/years/years",
+    "pages/page1/pages/mathAnswer/years/years",
+    "pages/page1/pages/historyAnswer/years/years",
+    "pages/page1/pages/geographyAnswer/years/years",
+    "pages/page1/pages/englishAnswer/years/years",
+    "pages/page1/pages/chineseAnswer/years/years",
+    "pages/page1/pages/chemistryAnswer/years/years",
+    "pages/page1/pages/biologyAnswer/years/years"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "中小学试题",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#35495e",
+    "borderStyle": "white",
+    "backgroundColor": "#f9f9f9",
+    "list": [
+      {
+        "text": "试题库",
+        "pagePath": "pages/page1/page1",
+        "iconPath": "resources/image/wechat.png",
+        "selectedIconPath": "resources/image/wechatHL.png"
+      },
+      {
+        "text": "2018",
+        "pagePath": "pages/index/index",
+        "iconPath": "resources/image/wechat.png",
+        "selectedIconPath": "resources/image/wechatHL.png"
+      }
+    ]
+  }
+}
